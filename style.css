@@ -1,0 +1,111 @@
+body {
+  background-color:
+}
+
+img {
+  width: 300px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 1.38;
+  letter-spacing: -2px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 1.38;
+  letter-spacing: -2px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 1.38;
+  letter-spacing: -2px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+table {
+  box-shadow: 0px 0px 25px rgba(0,0,0,0.2);
+  color: black;
+  margin-right: 12px;
+  margin-left: 12px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-spacing: 50px 0px;
+}
+
+i {
+  color: white;
+}
+
+ul {
+ list-style: none;
+}
+
+li {
+  display: inline-block;
+  font-size: 26px;
+  color: white;
+  letter-spacing: 10px;
+}
+
+
+.card {
+  border-radius: 2px;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding-bottom: 0px;
+}
+
+.container {
+  width: 575px;
+  margin: 75px auto;
+  background-color: white;
+  box-shadow: 0px 0px 230px rgba(0,0,0,0.7);
+  text-align: center;
+}
+
+.header {
+ background: linear-gradient(113deg, #ff6e7f, #bfe9ff);
+}
+
+.header p {
+  padding: 30px;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  margin: 30px 0;
+  box-shadow: 0px 0px 15px rgba(0,0,0,0.5);
+}
+
+.city-pic {
+  width: 250px;
+  border-radius: 2%;
+  box-shadow: 5px 5px rgba(0,0,0,0.1);
+}
+
+.footer {
+ padding-bottom: 10px;
+ padding-top: 10px;
+ background: linear-gradient(113deg, #ff6e7f, #bfe9ff);
+}
+
+.social-links {
+ color: white;
+ padding-bottom: 20px;
+}
